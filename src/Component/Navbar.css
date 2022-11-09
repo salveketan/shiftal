@@ -1,0 +1,150 @@
+.logo {
+    border: 1px solid red;
+    position: absolute;
+    width: 65px;
+    height: 48.56px;
+    left: 41px;
+    top: 24px;
+    color: #A6D4FF;
+}
+
+.group30006 {
+
+    position: absolute;
+    width: 1122px;
+    height: 21px;
+    left: 279px;
+    top: 38px;
+}
+
+.mobile-app-devlopment {
+
+    position: absolute;
+    width: 180px;
+    height: 21px;
+    left: 279px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    color: #A6D4FF;
+}
+
+.E-commerce {
+
+    position: absolute;
+    width: 96px;
+    height: 21px;
+    left: 497px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.DevOps-engineer {
+
+    position: absolute;
+    width: 144px;
+    height: 21px;
+    left: 631px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.UI-UX {
+
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 813px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.Blockchain-Development {
+
+    position: absolute;
+    width: 179px;
+    height: 21px;
+    left: 891px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.White-label-solutions {
+
+    position: absolute;
+    width: 149px;
+    height: 21px;
+    left: 1108px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.Stock-Crypto {
+
+    position: absolute;
+    width: 106px;
+    height: 21px;
+    left: 1295px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}

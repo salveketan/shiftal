@@ -1,0 +1,376 @@
+.mobiledev {
+
+    position: relative;
+    width: 1440px;
+    height: 8980px;
+    background: #FFFFFF;
+    /* background: #170C4A; */
+}
+
+.background {
+    position: absolute;
+    width: 1440px;
+    height: 651px;
+    left: 0px;
+    top: 0px;
+
+    background: #170C4A;
+}
+
+.Elipies-4294 {
+    position: absolute;
+    width: 947px;
+    height: 947px;
+    left: 339px;
+    top: -412px;
+
+    background: rgba(56, 214, 157, 0.19);
+    opacity: 0.7;
+    filter: blur(132px);
+}
+
+.Rectangle-16466 {
+    position: absolute;
+    width: 177px;
+    height: 5px;
+    left: 281px;
+    top: 76px;
+
+    background: #A6D4FF;
+}
+
+.Rectangle-16467 {
+    position: absolute;
+    width: 1440px;
+    height: 1px;
+    left: 0px;
+    top: 81px;
+
+    background: #A6D4FF;
+    opacity: 0.3;
+}
+
+.Rectangle-16468 {
+    position: absolute;
+    width: 242px;
+    height: 46px;
+    left: 600px;
+    top: 82px;
+
+    background: #20C3C5;
+}
+
+.logo {
+    border: 1px solid red;
+    position: absolute;
+    width: 65px;
+    height: 48.56px;
+    left: 41px;
+    top: 24px;
+    color: #A6D4FF;
+}
+
+.group30006 {
+
+    position: absolute;
+    width: 1122px;
+    height: 21px;
+    left: 279px;
+    top: 38px;
+}
+
+.mobile-app-devlopment {
+
+    position: absolute;
+    width: 180px;
+    height: 21px;
+    left: 279px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    color: #A6D4FF;
+}
+
+.E-commerce {
+
+    position: absolute;
+    width: 96px;
+    height: 21px;
+    left: 497px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.DevOps-engineer {
+
+    position: absolute;
+    width: 144px;
+    height: 21px;
+    left: 631px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.UI-UX {
+
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 813px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.Blockchain-Development {
+
+    position: absolute;
+    width: 179px;
+    height: 21px;
+    left: 891px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.White-label-solutions {
+
+    position: absolute;
+    width: 149px;
+    height: 21px;
+    left: 1108px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.Stock-Crypto {
+
+    position: absolute;
+    width: 106px;
+    height: 21px;
+    left: 1295px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #F7F4FF;
+}
+
+.Main-Mobile-App-development {
+    position: absolute;
+    width: 206px;
+    height: 24px;
+    left: 617px;
+    top: 93px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #B4FEFF;
+}
+
+.Group-30029 {
+    border: 1px solid red;
+    position: absolute;
+    width: 703px;
+    height: 315px;
+    left: 41px;
+    top: 219px;
+}
+
+.Group-30029-text {
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 703px;
+    height: 315px;
+    left: 41px;
+    top: 219px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+
+    font-size: 42px;
+    line-height: 63px;
+
+    color: #D2C2FF;
+}
+
+.Group-30029-Rectangle-02 {
+    position: absolute;
+    width: 690px;
+    height: 5px;
+    left: 41px;
+    top: 452px;
+
+    background: #A6D4FF;
+}
+
+.Group-30029-Rectangle-01 {
+    position: absolute;
+    width: 164px;
+    height: 5px;
+    left: 418px;
+    top: 388px;
+
+    background: #A6D4FF;
+}
+
+.Image {
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 562px;
+    height: 415px;
+    left: 839px;
+    top: 169px;
+}
+
+.About-us-bg {
+    position: absolute;
+    width: 720px;
+    height: 508px;
+    left: 720px;
+    top: 651px;
+    background: #EBB11D;
+}
+
+.Rectangle-16471 {
+    position: absolute;
+    width: 64px;
+    height: 4px;
+    left: 149px;
+    top: 704px;
+
+    background: #5A0368;
+}
+
+.About-us-text-1 {
+    position: absolute;
+    width: 124px;
+    height: 21px;
+    left: 149px;
+    top: 724px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    letter-spacing: 0.3em;
+
+    color: #5A0368;
+}
+
+.About-us-text-2 {
+    position: absolute;
+    width: 720px;
+    height: 96px;
+    left: 149px;
+    top: 769px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #000000;
+}
+
+.About-us-text-3 {
+    position: absolute;
+    width: 614px;
+    height: 150px;
+    left: 38px;
+    top: 905px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.About-us-text-4 {
+    position: absolute;
+    width: 484px;
+    height: 378px;
+    left: 874px;
+    top: 708px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 42px;
+    /* or 175% */
+
+
+    color: #FFFFFF;
+}
